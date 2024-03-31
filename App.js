@@ -1,12 +1,12 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 
 const App = () => {
-  return (
-    <View>
-      <Text>Hello I am ALX</Text>
-    </View>
-  );
+    return (
+        <View>
+            
+        </View>
+    );
 }
 
 const styles = StyleSheet.create({})
