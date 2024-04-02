@@ -9,11 +9,11 @@ const LoginUi = ({ navigation }) => {
     // You can implement your authentication logic here
     if (email === 'user@example.com' && password === 'password') {
         Alert.alert('Success', 'Login successful!');
-        navigation.navigate('Signup'); // Navigate to the 'Login' screen
+        // navigation.navigate('Signup'); // Navigate to the 'Login' screen
 
     } else {
         Alert.alert('Error', 'Invalid email or password.');
-        navigation.navigate('Signup'); // Navigate to the 'Login' screen
+        // navigation.navigate('Signup'); // Navigate to the 'Login' screen
 
     }
   };
