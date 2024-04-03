@@ -18,6 +18,7 @@ const Signup = ({ navigation }) => {
                         fontWeight: 'bold',
                         marginVertical: 12,
                         color: COLORS.black
+                        
                     }}>
                         Create Account
                     </Text>
