@@ -18,9 +18,6 @@ const LoginUi = ({ navigation }) => {
     }
   };
 
-  const buttonSignup = () => {
-    navigation.navigate('Signup'); // Navigate to the 'Login' screen
-  };
 
 
 
